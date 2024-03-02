@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+.app-wrapper {
+  display: flex;
+  flex-direction: column;
+  background-color: azure;
+}
+
+.editor-wrapper {
+  padding: 1rem;
+  height: 50vh;
+  display: flex;
+  gap: 1rem;
+  background-color: hsl(225, 6%, 25%);
+}
